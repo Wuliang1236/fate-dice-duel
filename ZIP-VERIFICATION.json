@@ -1,0 +1,18 @@
+[
+  {
+    "Archive": "fate-dice-sites-version-1.zip",
+    "Files": 133,
+    "Bytes": 3696274,
+    "SHA256": "44954509dcb7d1abcea81885a8518f25a135aed69cd43b9ed74d06f2d01c2036",
+    "AllFileHashesMatch": true,
+    "CredentialPatternMatches": 0
+  },
+  {
+    "Archive": "fate-dice-final-2026-11-17.zip",
+    "Files": 167,
+    "Bytes": 3724713,
+    "SHA256": "ee558b0ed109e3e86e2816a60cbaeccf55196daed833ec35dd8839c9a99064e3",
+    "AllFileHashesMatch": true,
+    "CredentialPatternMatches": 0
+  }
+]
