@@ -1,11 +1,10 @@
 {
   "repository": "Wuliang1236/fate-dice-duel",
   "url": "https://github.com/Wuliang1236/fate-dice-duel",
-  "visibility": "private",
   "verifiedDate": "2026-11-17",
   "archiveCommit": "09b7b1217aca0a85812dd65aa67a1aec4a6df851",
   "downloadedAndVerified": true,
-  "localFilesDeleted": false,
+  "localFilesDeleted": true,
   "allFilesRechecked": true,
   "totalFiles": 300,
   "archives": [
@@ -23,5 +22,14 @@
       "downloadedSha256": "ee558b0ed109e3e86e2816a60cbaeccf55196daed833ec35dd8839c9a99064e3",
       "matches": true
     }
-  ]
+  ],
+  "visibilityAtUpload": "private",
+  "currentVisibility": "public",
+  "localFilesDeletedAtUpload": false,
+  "cleanupVerifiedDate": "2026-11-17",
+  "remainingWorkspaceItems": 0,
+  "remainingDownloadCopies": 0,
+  "emptyWorkspaceRetained": true,
+  "publicAnonymousDownloadVerified": true,
+  "cleanupRecord": "CLEANUP-VERIFICATION.md"
 }
