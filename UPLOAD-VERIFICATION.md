@@ -2,6 +2,8 @@
 
 验收日期：2026-11-17。
 
+后续状态：所有者已明确要求公开仓库并删除本地文件，操作已完成。下文保留初次私有上传验收时的记录；当前状态见 [公开访问与本地清理记录](CLEANUP-VERIFICATION.md)。
+
 - 仓库：https://github.com/Wuliang1236/fate-dice-duel
 - 仓库所有者：Wuliang1236。
 - 可见性：Private，网页标识与 GitHub 仓库元数据的 private=true 一致；未启用 Pages。
