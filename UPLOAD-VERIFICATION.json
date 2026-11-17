@@ -1,0 +1,27 @@
+{
+  "repository": "Wuliang1236/fate-dice-duel",
+  "url": "https://github.com/Wuliang1236/fate-dice-duel",
+  "visibility": "private",
+  "verifiedDate": "2026-11-17",
+  "archiveCommit": "09b7b1217aca0a85812dd65aa67a1aec4a6df851",
+  "downloadedAndVerified": true,
+  "localFilesDeleted": false,
+  "allFilesRechecked": true,
+  "totalFiles": 300,
+  "archives": [
+    {
+      "name": "fate-dice-sites-version-1.zip",
+      "bytes": 3696274,
+      "expectedSha256": "44954509dcb7d1abcea81885a8518f25a135aed69cd43b9ed74d06f2d01c2036",
+      "downloadedSha256": "44954509dcb7d1abcea81885a8518f25a135aed69cd43b9ed74d06f2d01c2036",
+      "matches": true
+    },
+    {
+      "name": "fate-dice-final-2026-11-17.zip",
+      "bytes": 3724713,
+      "expectedSha256": "ee558b0ed109e3e86e2816a60cbaeccf55196daed833ec35dd8839c9a99064e3",
+      "downloadedSha256": "ee558b0ed109e3e86e2816a60cbaeccf55196daed833ec35dd8839c9a99064e3",
+      "matches": true
+    }
+  ]
+}
